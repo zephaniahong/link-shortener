@@ -4,3 +4,9 @@
 
 - Shortens any URL by creating a custom slug
 - Get automatically redirected to the url by using the slug
+
+## Technologies
+
+- NextJS
+- Prisma
+- PlanetScale (DB)
